@@ -1,3 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/NopzOwA.jpg" group-title="",US Armenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC World News
+http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="",ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV USA-US" tvg-language="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="",Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/fCOPwmO" group-title="",evrika
+http://ott-origin.t5.ucom.am/s44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/lCjNfWU" group-title="",a1
+http://ott-origin.t5.ucom.am/s45/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/RNkkVRg" group-title="",filmzone
+http://ott-origin.t5.ucom.am/s48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/McZsDm3" group-title="",tava TV
+http://ott-origin.t5.ucom.am/s53/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/kOwqtKx" group-title="",ctc kids
+http://ott-origin.t5.ucom.am/s60/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/fz5ODnP" group-title="",HBO
+http://ott-origin.t5.ucom.am/s64/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/cKdW9DK" group-title="",Techno 24
 http://ott-origin.t5.ucom.am/s68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/0h8hWwa" group-title="",khaghaliq
 http://ott-origin.t5.ucom.am/s74/index.m3u8
