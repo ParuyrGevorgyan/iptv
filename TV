@@ -1,15 +1,71 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/NopzOwA.jpg" group-title="",US Armenia TV
-http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC World News
-http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CBN News
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="",ABC News Digital 1
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV USA-US" tvg-language="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="",Bloomberg TV
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/fCOPwmO" group-title="",evrika
-http://ott-origin.t5.ucom.am/s44/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/lCjNfWU" group-title="",a1
-http://ott-origin.t5.ucom.am/s45/index.m3u8
+http://ott-origin.t5.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/0h8hWwa" group-title="",khaghaliq
+http://ott-origin.t5.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/rzLkv5T" group-title="",setanta sport
+http://ott-origin.t5.ucom.am/s82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/MNGVwGR" group-title="",premium 1
+http://ott-origin.t5.ucom.am/s83/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/zNsGmTl" group-title="",TV 1000
+http://ott-origin.t5.ucom.am/s91/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/rg3xwVx" group-title="",Kinoman
+http://ott-origin.t5.ucom.am/s94/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/cs8V4ez" group-title="",RT
+http://ott-origin.t5.ucom.am/s96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/43aiPmc" group-title="",H1
+http://ott-origin.t5.ucom.am/s1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/3b6pJm3" group-title="",H2
+http://ott-origin.t5.ucom.am/s2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/tKhRS9H" group-title="",Azatutyun
+http://ott-origin.t5.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/5k8qXti" group-title="",Kentron
+http://ott-origin.t5.ucom.am/s5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/TejnGpV" group-title="",5 TV
+http://ott-origin.t5.ucom.am/s6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/3FaPW0X" group-title="",Yerkir Media
+http://ott-origin.t5.ucom.am/s7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/A3bmTWO" group-title="",A TV
+http://ott-origin.t5.ucom.am/s8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/hDYsq04" group-title="",Azdarar
+http://ott-origin.t5.ucom.am/s9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/xHeUJgo" group-title="",ArmNews
+http://ott-origin.t5.ucom.am/s11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/kzUwi5x" group-title="",ort
+http://ott-origin.t5.ucom.am/s14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/5b1jIQ9" group-title="",rtr
+http://ott-origin.t5.ucom.am/s15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/z4tm9hS" group-title="",SineMan
+http://ott-origin.t5.ucom.am/s66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/EqkF0O8" group-title="",Armenia
+http://ott-origin.t5.ucom.am/s4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/WBVkm0X" group-title="",Shokhakat
+http://ott-origin.t5.ucom.am/s13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/KpBag9y" group-title="",ntv
+http://ott-origin.t5.ucom.am/s17/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/C4UM3bo" group-title="",tnt
+http://ott-origin.t5.ucom.am/s19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/mqf1hhg" group-title="",Al Jazeera
+http://ott-origin.t5.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/0AF5KMG" group-title="",BBC world news
+http://ott-origin.t5.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/Sddh7AR" group-title="",France 24
+http://ott-origin.t5.ucom.am/s25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/k7XqZ6M" group-title="",DW
+http://ott-origin.t5.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/q6IvLiz" group-title="",CNN
+http://ott-origin.t5.ucom.am/s27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/uOMqkX9" group-title="",comedy 4
+http://ott-origin.t5.ucom.am/s32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/aT4pOwN" group-title="",a2
+http://ott-origin.t5.ucom.am/s33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/1mUL6eX" group-title="",rbc
+http://ott-origin.t5.ucom.am/s36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/28Ppxcc" group-title="",English TV
+http://ott-origin.t5.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/BSdEQPI" group-title="",Mir
+http://ott-origin.t5.ucom.am/s39/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/EnvtXRE" group-title="",Pyatnitsa
+http://ott-origin.t5.ucom.am/s50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/25aRwab" group-title="",Okhotnik
+http://ott-origin.t5.ucom.am/s62/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://imgur.com/5Vxvk4q" group-title="",Vip Comedy
+http://ott-origin.t5.ucom.am/s97/index.m3u8
